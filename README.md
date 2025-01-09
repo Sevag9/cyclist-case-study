@@ -73,7 +73,7 @@ This project analyzes data from the Pedalist bike-sharing system to uncover diff
    ```bash
    jupyter notebook CyclistCaseStudy.ipynb
    ```
-
+ 
 ## Contributors
 
 - [@Sevag9](https://github.com/Sevag9)
